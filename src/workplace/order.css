@@ -1,0 +1,19 @@
+.box{
+    width: 100%;
+    height: 40px;
+}
+
+
+.link{
+        color: white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+
+.link2{
+    color:#1976d2; ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
